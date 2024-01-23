@@ -6,7 +6,8 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 # Unacceptable behavior
 
-Do not utilize rooms within the space for personal gain. Example: Mutual aid is for discussion and implementation of mutual aid projects, not for fundraising or donation asks whether individual or institutional. We have no way of vetting or verifying any of these and cannot ethically advocate for such requests. Nor can we let such asks detract or distract from the intent of specific rooms or reduce their impact with a high volume of such requests.
+Do not utilize rooms within the space for personal gain.
+Example: Mutual aid is for discussion and implementation of mutual aid projects, not for fundraising or donation asks whether individual or institutional. We have no way of vetting or verifying any of these and cannot ethically advocate for such requests. Nor can we let such asks detract or distract from the intent of specific rooms or reduce their impact with a high volume of such requests.
 
 There is zero tolerance for the intolerant. If an individual advocates ostracizing, oppressing, or otherwise hurting others, that individual will be banned. This includes advocating for damaging structures, such as capitalism and fascism.
 
